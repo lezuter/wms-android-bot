@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables & Credentials
+.env
+*.json
+!package.json
+
+# Local Databases & Privacy
+history_customer.json
+
+# Logs & Debugging
+*.xml
+*.log
+*.txt
